@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/tenetur-quisquam-quia-aliquam",
-  "version": "7.15.147",
+  "version": "7.15.148",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -341,5 +341,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/tenetur-quisquam-quia-aliquam/issues"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
